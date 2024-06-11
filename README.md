@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced Machine Learning**
 
-- 👯 I’m looking to collaborate on **Any Machine learning projects**
+- 👯 I’m looking to collaborate on **Any Machine learning and Data Science projects**
 
 - 💬 Ask me about **Python, Machine learning, Computer vision**
 
