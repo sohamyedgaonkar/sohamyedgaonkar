@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">A passionate Ai/ML and Data Science engineer from India</h3>
+<h3 align="center">A passionate Ai/ML engineer from India</h3>
 
-- 🌱 I’m currently learning **Advanced Machine Learning**
+- 🌱 I’m currently learning **Advanced Machine Learning** and **Backend Technologies**
 
-- 👯 I’m looking to collaborate on **Any Machine learning and Data Science projects**
+- 👯 I’m looking to collaborate on **Any Complex Full Stack projects**
 
 - 💬 Ask me about **Python, Machine learning, Computer vision**
 
